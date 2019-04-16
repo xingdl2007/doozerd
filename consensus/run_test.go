@@ -3,7 +3,7 @@ package consensus
 import (
 	"github.com/golang/protobuf/proto"
 	"github.com/bmizerany/assert"
-	"github.com/ha/doozerd/store"
+	"github.com/xingdl2007/doozerd/store"
 	"net"
 	"testing"
 )

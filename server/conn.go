@@ -3,8 +3,8 @@ package server
 import (
 	"github.com/golang/protobuf/proto"
 	"encoding/binary"
-	"github.com/ha/doozerd/consensus"
-	"github.com/ha/doozerd/store"
+	"github.com/xingdl2007/doozerd/consensus"
+	"github.com/xingdl2007/doozerd/store"
 	"io"
 	"log"
 	"sync"

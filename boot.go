@@ -3,7 +3,7 @@ package main
 import (
 	"crypto/rand"
 	"encoding/base32"
-	"github.com/ha/doozer"
+	"github.com/xingdl2007/doozer"
 	"time"
 )
 

@@ -4,7 +4,7 @@ install:
   - go get github.com/bmizerany/assert
   - go get code.google.com/p/go.net/websocket
   - go get github.com/golang/protobuf/proto
-  - go get github.com/ha/doozer
+  - go get github.com/xingdl2007/doozer
 script:
     - pushd $TRAVIS_BUILD_DIR
     - ./all.sh

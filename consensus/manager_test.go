@@ -4,7 +4,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	"container/heap"
 	"github.com/bmizerany/assert"
-	"github.com/ha/doozerd/store"
+	"github.com/xingdl2007/doozerd/store"
 	"net"
 	"sort"
 	"testing"
